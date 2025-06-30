@@ -1,0 +1,6 @@
+# ninja log v5
+1	15	0	D:/projects/instagram-clone/android/app/.cxx/Debug/2g37125b/x86_64/CMakeFiles/cmake.verify_globs	e0e9b4dfea4cf52e
+2	3863	7729957287408559	CMakeFiles/appmodules.dir/D_/projects/instagram-clone/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	a646ce2a5a022fc3
+1	4218	7729957290935441	CMakeFiles/appmodules.dir/OnLoad.cpp.o	912cfafeb5c8ba7e
+4218	4349	7729957292311182	D:/projects/instagram-clone/android/app/build/intermediates/cxx/Debug/2g37125b/obj/x86_64/libappmodules.so	a91a1e7f675ef0bc
+1	18	0	D:/projects/instagram-clone/android/app/.cxx/Debug/2g37125b/x86_64/CMakeFiles/cmake.verify_globs	e0e9b4dfea4cf52e

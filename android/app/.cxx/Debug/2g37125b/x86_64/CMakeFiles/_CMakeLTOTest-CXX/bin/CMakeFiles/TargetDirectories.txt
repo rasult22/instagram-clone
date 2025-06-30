@@ -1,0 +1,4 @@
+D:/projects/instagram-clone/android/app/.cxx/Debug/2g37125b/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+D:/projects/instagram-clone/android/app/.cxx/Debug/2g37125b/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+D:/projects/instagram-clone/android/app/.cxx/Debug/2g37125b/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+D:/projects/instagram-clone/android/app/.cxx/Debug/2g37125b/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
